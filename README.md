@@ -260,10 +260,16 @@ design/
 ## 🧑‍💻 Author
 
 **k.angama**  
-[GitHub](https://github.com/k-angama) • [LinkedIn](www.linkedin.com/in/karim-angama)
+[GitHub](https://github.com/k-angama) • [LinkedIn](https://www.linkedin.com/in/karim-angama)
 
 ---
 
 ## 📄 License
 
 This project is part of a technical assessment for [fulll](https://github.com/fulll/hiring/blob/master/Mobile/react-native-intermediate-senior.md).
+
+---
+
+## 📝 Quiz Answers
+
+The technical quiz answers can be found here: [Fulll Mobile Quiz Answers](/quizz/fulll-mobile-quizz.md)
